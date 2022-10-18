@@ -1,0 +1,6 @@
+/test
+/dist
+/build
+
+hs_err_pid7172.log*
+hs_err_pid18516.log*
