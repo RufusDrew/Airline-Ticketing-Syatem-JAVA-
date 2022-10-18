@@ -6,7 +6,7 @@ package airline.management.system;
 
 /**
  *
- * @author Lenovo
+ * @author Rufus
  */
 public class mainFrom extends javax.swing.JFrame {
 

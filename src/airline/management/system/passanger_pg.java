@@ -13,7 +13,7 @@ import net.proteanit.sql.DbUtils;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Lenovo
+ * @author Rufus
  */
 public class passanger_pg extends javax.swing.JFrame {
 

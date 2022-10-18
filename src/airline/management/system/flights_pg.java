@@ -15,7 +15,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Lenovo
+ * @author Rufus
  */
 public class flights_pg extends javax.swing.JFrame {
 

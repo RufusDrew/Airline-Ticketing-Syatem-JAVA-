@@ -11,7 +11,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Lenovo
+ * @author Rufus
  */
 public class cancellation_pg extends javax.swing.JFrame {
 
